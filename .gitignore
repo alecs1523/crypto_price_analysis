@@ -1,4 +1,4 @@
 .DS_Store
 *.ppt
 *.pptx
-*.ipynb_checkpoints/
+*.ipynb_checkpoints
