@@ -1,7 +1,7 @@
 # Crypto Price Analysis
 
 
-A data-driven analysis of historical housing prices to forecast future trends and identify top-performing ZIP codes for investment opportunities.
+A data-driven analysis of historical crypto prices to forecast future trends and identify top-performing assets for investment opportunities.
 
 ## Project Overview
 
@@ -46,7 +46,7 @@ The analysis includes:
 
 ## Model Results
 
-We applied multiple time series models to analyze and forecast housing prices across ZIP codes. Below are the key results:
+We applied multiple time series models to analyze and forecast crpto prices across assets. Below are the key results:
 
 **Models Compared**:
 - **Auto-ARIMA**:  
